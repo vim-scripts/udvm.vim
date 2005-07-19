@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1315
+
+Universal Decompresor Virtual Machine is defined in RFC3320 (SigComp). 
+It has an assembly language whose definition can be found in the draft draft-ietf-rohc-sigcomp-user-guide-01.
+
+
